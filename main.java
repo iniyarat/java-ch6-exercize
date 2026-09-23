@@ -1,3 +1,14 @@
+/*  Program: Computing Future Investment Value
+
+*   Programmer: Iniya Rathinakumar
+
+*   Date: September 22nd, 2026
+
+*   Purpose: What does the code do?
+Write a method that computes future investment value at a given interest rate for a specified number of years
+
+*/
+
 import java.util.Scanner;
 
 public class FutureInvestmentValue {
